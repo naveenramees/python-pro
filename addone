@@ -1,0 +1,4 @@
+
+gowash  = int(input())
+
+print gowash + 1
